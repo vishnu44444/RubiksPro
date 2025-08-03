@@ -132,4 +132,3 @@ Back to top
 =======
 # rubiks-cube
 my project
->>>>>>> 6e44b6a7cb1d7a1e6ab6e6855dbbc4dd1f0cf877
